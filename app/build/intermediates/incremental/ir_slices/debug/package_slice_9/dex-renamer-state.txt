@@ -1,0 +1,4 @@
+#Tue Sep 17 13:37:41 CST 2019
+base.0=C\:\\Users\\Robinson\\AndroidStudioProjects\\androidBleSdkTestApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

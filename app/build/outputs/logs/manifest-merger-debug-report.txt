@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [polar-ble-sdk.aar] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\136cfe80cee73641ad08e261c8f977dc\AndroidManifest.xml:2:1-17:12
+MERGED from [polar-protobuf-release.aar] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\polar-protobuf-release.aar\6fa5bc42430a84ca0f374e9936f7aa80\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\059e5823419812bed2729e579e9b3b74\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\5c7641fbc029e72ae22bb10e7a0d2b5e\AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fcbcc72aed007552483af2de07ebd149\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4af288e95b7f621c2d875f9ca48e7a21\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\55457692eba3cb20e4412423c5771fdf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\99acd1e4241d8d1d3c8453fbb6cf0b44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c6a2b6bcc0c3cf7a43aef779833c3188\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f7e83aff3d36aa10223d4abdf47df32a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\366d580d01ac6a447914f6ac5cfcda41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\986a0221d51d8b312bce5e90f3f0bdab\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\431d7e1c1443ad9fd3554d5b9ca2ac03\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b5ed05135f9e6a2835fa5b65e0405b1c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4b4a3296062a5b5d4375d667455ea1ac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a4d63b8beade844ba70786a9c46f475b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:5:5-68
+MERGED from [polar-ble-sdk.aar] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\136cfe80cee73641ad08e261c8f977dc\AndroidManifest.xml:11:5-68
+MERGED from [polar-ble-sdk.aar] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\136cfe80cee73641ad08e261c8f977dc\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:6:5-74
+MERGED from [polar-ble-sdk.aar] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\136cfe80cee73641ad08e261c8f977dc\AndroidManifest.xml:13:5-74
+MERGED from [polar-ble-sdk.aar] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\136cfe80cee73641ad08e261c8f977dc\AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:7:5-81
+MERGED from [polar-ble-sdk.aar] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\136cfe80cee73641ad08e261c8f977dc\AndroidManifest.xml:14:5-81
+MERGED from [polar-ble-sdk.aar] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\136cfe80cee73641ad08e261c8f977dc\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:9:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4af288e95b7f621c2d875f9ca48e7a21\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4af288e95b7f621c2d875f9ca48e7a21\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:15:9-40
+activity#polar.com.androidblesdk.MainActivity
+ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:screenOrientation
+		ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:18:13-49
+	android:configChanges
+		ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:17:13-48
+	android:name
+		ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+MERGED from [polar-ble-sdk.aar] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\136cfe80cee73641ad08e261c8f977dc\AndroidManifest.xml:7:5-9:41
+MERGED from [polar-ble-sdk.aar] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\136cfe80cee73641ad08e261c8f977dc\AndroidManifest.xml:7:5-9:41
+MERGED from [polar-protobuf-release.aar] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\polar-protobuf-release.aar\6fa5bc42430a84ca0f374e9936f7aa80\AndroidManifest.xml:7:5-9:41
+MERGED from [polar-protobuf-release.aar] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\polar-protobuf-release.aar\6fa5bc42430a84ca0f374e9936f7aa80\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\059e5823419812bed2729e579e9b3b74\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\059e5823419812bed2729e579e9b3b74\AndroidManifest.xml:20:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\5c7641fbc029e72ae22bb10e7a0d2b5e\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\5c7641fbc029e72ae22bb10e7a0d2b5e\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fcbcc72aed007552483af2de07ebd149\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fcbcc72aed007552483af2de07ebd149\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4af288e95b7f621c2d875f9ca48e7a21\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4af288e95b7f621c2d875f9ca48e7a21\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\55457692eba3cb20e4412423c5771fdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\55457692eba3cb20e4412423c5771fdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\99acd1e4241d8d1d3c8453fbb6cf0b44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\99acd1e4241d8d1d3c8453fbb6cf0b44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c6a2b6bcc0c3cf7a43aef779833c3188\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c6a2b6bcc0c3cf7a43aef779833c3188\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f7e83aff3d36aa10223d4abdf47df32a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f7e83aff3d36aa10223d4abdf47df32a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\366d580d01ac6a447914f6ac5cfcda41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\366d580d01ac6a447914f6ac5cfcda41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\986a0221d51d8b312bce5e90f3f0bdab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\986a0221d51d8b312bce5e90f3f0bdab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\431d7e1c1443ad9fd3554d5b9ca2ac03\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\431d7e1c1443ad9fd3554d5b9ca2ac03\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b5ed05135f9e6a2835fa5b65e0405b1c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b5ed05135f9e6a2835fa5b65e0405b1c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4b4a3296062a5b5d4375d667455ea1ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4b4a3296062a5b5d4375d667455ea1ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a4d63b8beade844ba70786a9c46f475b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a4d63b8beade844ba70786a9c46f475b\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Robinson\AndroidStudioProjects\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [polar-ble-sdk.aar] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\136cfe80cee73641ad08e261c8f977dc\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from [polar-ble-sdk.aar] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\136cfe80cee73641ad08e261c8f977dc\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [polar-ble-sdk.aar] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\136cfe80cee73641ad08e261c8f977dc\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from [polar-ble-sdk.aar] C:\Users\Robinson\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\136cfe80cee73641ad08e261c8f977dc\AndroidManifest.xml:15:22-76
